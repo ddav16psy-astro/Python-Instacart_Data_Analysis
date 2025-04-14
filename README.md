@@ -4,7 +4,6 @@ Instacart is a publicly-listed American delivery company providing grocery deliv
 ## Analysis Questions
 What are the busiest days of the week and hours of the day? At what times do customers spend the most money? With Instacart’s wide range of product prices, what recommendations can simplify price range groupings to better guide marketing efforts? Are there specific types of products that are more popular than others? How is brand loyalty distributed among users? Do ordering habits vary based on a customer’s loyalty status? Are there differences in ordering habits based on a customer’s region? Is there a connection between age and family status regarding ordering habits? What classifications can be derived from demographic information, such as age, income, types of goods, and family status? How do ordering habits differ among various customer profiles?
 ## Folders
-- 03-2025 Instacart Basket Analysis: Root folder
 - 01 Project Management: Project Brief
 - 03 Scripts: Python scripts
 - 04 Analysis/Visualizations: Plots
