@@ -15,4 +15,4 @@ What are the busiest days of the week and hours of the day? At what times do cus
 - Excel
 ## Data / Disclaimer
 Instacart has kindly made segments of its data available online.  However, all customer and pricing data in the dataset were fictionalized for use in the CareerFoundry Data Analytics program.
-## Final report: 
+## Final report: [Instacart - Final Report](05 Sent to Client)
